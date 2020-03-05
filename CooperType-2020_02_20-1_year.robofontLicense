@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expire</key>
+	<string>31536000</string>
+	<key>limited</key>
+	<string>True</string>
+	<key>Name</key>
+	<string>CooperType</string>
+	<key>start</key>
+	<string>1582156800</string>
+	<key>Signature</key>
+	<data>RU1wUj/GV92lRAnHUU5QpS+b839bXdOo/8Izn4hPM6NS4b1hqWidnNaLRY9c+MzU2FNYZp+ADGt3
+jwX5OgEY0gjhErlrUo86PpvvZOYYBTI1FFgk/FGZahA+CSfyze8Mcg5WwsqLnANkBaKlZ90kR9GI
+enMgDiQNRhkDPT/Nr3Y=
+</data>
+</dict>
+</plist>
