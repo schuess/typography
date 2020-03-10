@@ -2,7 +2,6 @@
 <glyph name="H" format="2">
   <advance width="500"/>
   <unicode hex="0048"/>
-  <image fileName="acolyte.jpg000000000000001" xOffset="30" yOffset="-112"/>
   <outline>
   </outline>
 </glyph>
