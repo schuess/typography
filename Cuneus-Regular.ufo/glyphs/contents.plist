@@ -2,11 +2,25 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>H</key>
+    <string>H_.glif</string>
+    <key>O</key>
+    <string>O_.glif</string>
+    <key>a</key>
+    <string>a.glif</string>
+    <key>d</key>
+    <string>d.glif</string>
     <key>n</key>
     <string>n.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
     <key>p</key>
     <string>p.glif</string>
     <key>r</key>
     <string>r.glif</string>
+    <key>space</key>
+    <string>space.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
   </dict>
 </plist>

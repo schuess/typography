@@ -3,7 +3,7 @@
 <plist version="1.0">
   <array>
     <array>
-      <string>```</string>
+      <string>foreground</string>
       <string>glyphs</string>
     </array>
     <array>
@@ -13,6 +13,10 @@
     <array>
       <string>Template</string>
       <string>glyphs.T_emplate</string>
+    </array>
+    <array>
+      <string>scratch</string>
+      <string>glyphs.scratch</string>
     </array>
   </array>
 </plist>
