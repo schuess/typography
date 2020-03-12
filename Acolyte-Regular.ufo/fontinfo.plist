@@ -5,9 +5,9 @@
     <key>ascender</key>
     <integer>750</integer>
     <key>capHeight</key>
-    <integer>750</integer>
+    <integer>265</integer>
     <key>descender</key>
-    <integer>-250</integer>
+    <integer>-223</integer>
     <key>familyName</key>
     <string>Acolyte</string>
     <key>guidelines</key>
@@ -29,6 +29,6 @@
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>xHeight</key>
-    <integer>500</integer>
+    <integer>170</integer>
   </dict>
 </plist>
