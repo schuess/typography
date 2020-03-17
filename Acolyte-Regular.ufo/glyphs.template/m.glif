@@ -2,6 +2,7 @@
 <glyph name="m" format="2">
   <advance width="500"/>
   <unicode hex="006D"/>
+  <image fileName="H_amburg.jpg000000000000001" xScale="1.1262728273443199" yScale="1.1262728273443199" xOffset="-1653.9185012724522" yOffset="-1324.2428710287886"/>
   <outline>
   </outline>
 </glyph>

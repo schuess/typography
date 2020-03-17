@@ -2,6 +2,7 @@
 <glyph name="H" format="2">
   <advance width="500"/>
   <unicode hex="0048"/>
+  <image fileName="H_amburg.jpg000000000000001" xScale="1.1040808032" yScale="1.1040808032" xOffset="-141.32977283840023" yOffset="-1298.1500549248"/>
   <outline>
   </outline>
 </glyph>
